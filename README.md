@@ -48,7 +48,7 @@ function mint100tokens() public {
 ```shell
 npx hardhat run scripts/transfer.js --network swisstronik
 ```
-<img width="771" alt="image" src="https://github.com/Logosdibta/Swisstronik_LW3_CC4/assets/97156724/afcdcfb9-3e0a-42ae-980c-813d3a02f33a">
+<img width="783" alt="image" src="https://github.com/Logosdibta/Swisstronik_LW3_CC4/assets/97156724/62bbd3fe-0ae6-407b-bb24-66885eb45777">
 
 ### `Bonus Scripts`
 
